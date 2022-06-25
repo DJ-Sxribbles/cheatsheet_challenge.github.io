@@ -1,0 +1,123 @@
+body {
+  font-family: monospace, sans-serif;
+  background-color: lightgray;
+  color: dimgray;
+}
+
+.giphy-embed-1 {
+  width: 480px;
+  height: 360px;
+  border: 0;
+  margin: 0 auto;
+  position: relative;
+  left: 50px;
+}
+
+h3.header {
+  color: blueviolet;
+  text-align: center;
+  position: relative;
+}
+
+#banner-info {
+  text-align: center;
+}
+
+#header-3 {
+  text-align: center;
+}
+
+h1.main-1 {
+  color: darkviolet;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+.drama {
+  position: relative;
+  top: 35px;
+  text-align: center;
+}
+
+label.drama-question {
+  color: darkviolet;
+}
+
+.fun-time {
+  position: relative;
+  top: 45px;
+  text-align: center;
+}
+
+span.fun-question{
+  color: darkviolet;
+}
+
+.what-family {
+  position: relative;
+  top: 55px;
+  text-align: center;
+}
+
+span.family-question {
+  color: darkviolet;
+}
+
+.comments {
+  position: relative;
+  top: 65px;
+  text-align: center;
+}
+
+label.comments-question {
+  color: darkviolet;
+}
+
+.submission {
+  position: relative;
+  top: 105px;
+  text-align: center;
+}
+
+.llama-facts {
+  position: relative;
+  top: 110px;
+  text-align: center;
+}
+
+.table-facts {
+  position: relative;
+  top: 115px;
+  padding:0 20px;
+}
+
+thead th {
+  text-transform: uppercase;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  background: blueviolet;
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 10px 10px;
+}
+
+tr {
+  border: 1px solid darkslategray;
+  margin: 5px;
+}
+
+td {
+    padding: 10px 10px;
+    border: 1px solid darkslategray;
+    margin: 5px;
+}
+
+.footer-info {
+  position: relative;
+  text-align: center;
+  top: 145px;
+  left: auto;
+  padding: 0 0 20px 0;
+}
